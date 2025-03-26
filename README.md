@@ -3,8 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felype-fraga-gallotte-b3b769283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felype_gallotte)
 
-![Felype Gallotte GitHub stats](https://github-readme-stats.vercel.app/api?username=FelypeGallotte&show_icons=true&theme=midnight-purple)
-<img height="200px" alt="most used languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelypeGallotte&count_private=true&theme=midnight-purple&bg_color=0,000000,130F40&layout=compact&border_radius=6&langs_count=10&hide=html,markdown,javascript,css,powershell,batchfile,makefile"/>
+![Felype Gallotte GitHub stats](https://github-readme-stats.vercel.app/api?username=FelypeGallotte&show_icons=true&theme=midnight-purple)<br/>
+<img height="200px" alt="most used languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelypeGallotte&count_private=true&theme=midnight-purple&bg_color=0,000000,130F40&layout=compact&border_radius=6&langs_count=10&"/>
 
 
 ## Tecnologias que eu uso no meu dia
